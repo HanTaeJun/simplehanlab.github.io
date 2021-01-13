@@ -6,7 +6,7 @@ categories:
   - web
 tags:
   - WordPress
-date: "2020-07-14 18:45"
+date: "2020-07-14 18:46"
 ---
 
 # 워드프레스 설치형 사용법
